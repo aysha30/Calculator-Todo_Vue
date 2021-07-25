@@ -1,5 +1,8 @@
 # vuecalci
 
+![image](https://user-images.githubusercontent.com/45158487/126894725-fdb5a0ef-96c5-4ff5-98c5-f208d5fc525e.png)
+
+
 ## Project setup
 ```
 npm install
